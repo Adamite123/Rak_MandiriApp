@@ -1,4 +1,4 @@
-# flutter_application_3
+# Rakamin x Mandiri
 
 A new Flutter project.
 
